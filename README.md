@@ -1,7 +1,7 @@
 # ampify
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-
+		
 > Convert plain HTML to Google Accelerated Mobile Pages (AMP).
 
 ## Installation
